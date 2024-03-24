@@ -1,2 +1,5 @@
-# soccer
-Quiz Futebol
+Tecnologias utilizadas:
+
+HTML
+CSS
+Javascript
